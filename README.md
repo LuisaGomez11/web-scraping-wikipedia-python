@@ -35,6 +35,16 @@ El objetivo es aplicar técnicas fundamentales de Ciencia de Datos utilizando Py
 - Se generó una gráfica comparativa de población.
 - Se realizaron consultas SQL sobre los datos procesados.
 
+## Visualización de resultados
+
+### Top 10 países más poblados
+
+La siguiente gráfica presenta los diez países
+con mayor población según los datos extraídos
+de Wikipedia.
+
+![Top 10 países más poblados](top_10_paises.png)
+
 ## Fuente de datos
 
 Wikipedia: [List of countries and dependencies by population](https://en.wikipedia.org/wiki/List_of_countries_and_dependencies_by_population).
