@@ -48,8 +48,8 @@ Abrir `Web_Scraping_Wikipedia.ipynb` en JupyterLab o Google Colab, instalar las 
 ## Archivos
 
 - `Web_Scraping_Wikipedia.ipynb`: código y análisis.
-- `poblacion_paises.csv`: datos procesados.
-- `paises_mas_100_millones.csv`: resultados del filtrado SQL.
+- `datos/poblacion_paises.csv`: datos procesados.
+- `datos/paises_mas_100_millones.csv`: resultados de la consulta SQL.
 
 ## Conclusión
 
